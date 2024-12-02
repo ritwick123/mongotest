@@ -20,8 +20,4 @@ public class CustomerEntity {
 
     private String email;
 
-    // private String address;
-    
-    // private int phone;
-
 }

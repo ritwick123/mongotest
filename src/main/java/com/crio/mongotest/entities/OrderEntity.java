@@ -23,6 +23,6 @@ public class OrderEntity {
 
     private List<Product> products;
 
-    // private int totalPrice;
+    private int totalPrice;
     
 }

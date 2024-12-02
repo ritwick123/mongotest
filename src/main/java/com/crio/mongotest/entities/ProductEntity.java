@@ -20,5 +20,4 @@ public class ProductEntity {
 
     private int price;
 
-    // private int quantity;
 }
